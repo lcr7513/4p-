@@ -1,0 +1,6 @@
+{
+  "name": "4P 읽걷쓰 전공연계 사회문제탐구",
+  "description": "4P(현상-문제-과업-실천) 기반 전공 연계 사회문제탐구, 6개 연구실 상세 탭, AI 질문 평가·추천, 걷기-연구 몰입도 시각화, 연구자료 미리보기·다운로드 및 실시간 통합 대시보드 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
